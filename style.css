@@ -27,22 +27,22 @@ body {
 }
 
 .card img {
-  width: 200px;
+  width: 250px;
   border-radius: 6px;
 }
 
-.card h4 {
-  width: 190px;
+.card h1 {
+  width: 230px;
   text-align: center;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 700;
   margin-top: 15px;
 }
 
 .card p {
-  width: 190px;
+  width: 230px;
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 400;
   margin-top: 15px;
   margin-bottom: 26px;
